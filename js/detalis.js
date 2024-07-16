@@ -44,7 +44,7 @@ export class Detalis {
               </p>
               <p class="fs-3 fw-bolder">Tags : 
                 <div class="d-flex justify-content-start align-items-center gap-2">
-                  <a href="${result[i].strSource}" class="btn btn-success px-4">Souce</a>
+                  <a href="${result[i].strSource}" class="btn btn-success px-4">Source</a>
                   <a href="${result[i].strYoutube}" class="btn btn-danger px-4">Youtube</a>
                 </div>
               </p>
